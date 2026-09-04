@@ -8,7 +8,7 @@ Real-time object detection on a live webcam feed using YOLOv8 (Ultralytics) and 
 
 Demo
 
-<!-- Add your demo video/GIF here, e.g.: --> <!-- !\[Demo](demo.gif) --> <!-- or link to it: --> <!-- \[Watch the demo](demo.mp4) -->
+<!-- Add your demo video/GIF here, e.g.: -->[Watch the demo](demo.mp4)
 
 Features
 
